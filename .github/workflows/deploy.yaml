@@ -10,5 +10,5 @@ jobs:
         with:
           name: 'template-do'
 #           domain: 'template.do'
-          apiToken: ${{ secrets.CF_API_TOKEN }}
-          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          cloudflareApiToken: ${{ secrets.CF_API_TOKEN }}
+          cloudflareAccountId: ${{ secrets.CF_ACCOUNT_ID }}
