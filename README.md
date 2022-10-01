@@ -2,13 +2,13 @@
 
 ## Getting Started
 
-If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
-
-Then interactively use the API at: <https://templates.do/api>
+You can interact with the API in your browser at: <https://templates.do/api>
 
 ```json
 
 ```
+
+If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
 
 ## [Drivly Open](https://driv.ly/open) - [Accelerating Innovation through Open Source](https://blog.driv.ly/accelerating-innovation-through-open-source)
 
