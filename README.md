@@ -10,7 +10,7 @@ You can interact with the API in your browser at: <https://templates.do/api>
 
 If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
 
-## [Drivly Open](https://driv.ly/open) - [Accelerating Innovation through Open Source](https://blog.driv.ly/accelerating-innovation-through-open-source)
+## 🚘 [Drivly Open](https://driv.ly/open) - [Accelerating Innovation through Open Source](https://blog.driv.ly/accelerating-innovation-through-open-source)
 
 Our [Drivly Open Philosophy](https://philosophy.do) has these key principles:
 
