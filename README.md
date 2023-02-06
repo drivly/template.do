@@ -1,8 +1,8 @@
-# template.do - Drivly Open Template
+# template.do - 🚀 Drivly Open .DO Template
 
 ## Getting Started
 
-You can interact with the API in your browser at: <https://templates.do/api>
+You can interact with the API in your browser at: https://templates.do/api
 
 ```json
 
